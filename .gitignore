@@ -1,3 +1,6 @@
+# My files / folders
+data/
+savedModels/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
